@@ -1,0 +1,37 @@
+h1, h2 {
+  color: #00078b;
+}
+img {
+  height: 200px;
+  width: 200px;
+  border: 10px solid #030303;
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  color: #ffffff;
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: #3590cc;
+  border: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+#why {
+  color:#ffffff;
+  background-color:#00078b;
+  font-size:16px;
+}
+#who {
+  color:#ffffff;
+  background-color:#00078b;
+  font-size:16px;
+}
+.stuff {
+  color: #00488b;
+}
+.positioned {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+}
